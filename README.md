@@ -101,6 +101,8 @@
 
 <h2 align="center"> 🐍 Contributions </h2>
 <div align="center">
+  <img src="https://img.shields.io/badge/Total_Contributions-2024-blue?style=for-the-badge&logo=github" alt="Total Contributions" />
+  <br><br>
   <img src="https://raw.githubusercontent.com/suresh1319/suresh1319/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=suresh1319&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
