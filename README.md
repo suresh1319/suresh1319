@@ -3,7 +3,7 @@
 </h1> 
      
 <div id="header" align="center">  
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Nyc25ycG12cGJzb3BrcjFseTQyanNzbW1mdnJhZzJmNGpvaGs3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  width="400"/> 
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  width="400"/> 
 </div>
 
 <div align="center">
@@ -96,6 +96,15 @@
 
 </table>
 <br>
+
+---
+
+<h2 align="center"> 🐍 Contributions </h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/suresh1319/suresh1319/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suresh1319&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
 
 ---
 
