@@ -110,9 +110,12 @@
 
 <h2 align="center"> ⚡ GitHub Stats </h2>
 <div align="center">
-  <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suresh1319&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Suresh's GitHub Streak" /> 
-  </p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suresh1319&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suresh1319&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Most Used Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suresh1319&theme=react&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <details>
@@ -122,16 +125,18 @@
     </h3>
   </summary>
   <div align="center">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suresh1319&theme=github_dark" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suresh1319&theme=github_dark" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suresh1319&theme=github_dark" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suresh1319&theme=github_dark" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suresh1319&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suresh1319&theme=react" />
+    <br><br>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suresh1319&theme=react" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suresh1319&theme=react" />
+    <br><br>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suresh1319&theme=react" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suresh1319&theme=react" />
   </div>
   <br>
   <div align="center">
     <!-- GitHub Trophies -->
-    <img src="https://github-profile-trophy.vercel.app/?username=suresh1319&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 120%; display: inline-block;" />
+    <img src="https://github-profile-trophy.vercel.app/?username=suresh1319&theme=algolia&column=7&margin-w=10&no-frame=true" alt="GitHub Trophies" />
   </div>
 </details>
 
