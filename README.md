@@ -1,151 +1,121 @@
-<h1 align="center"> Hi!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40" width="40" /> I'm 
-<a href="https://www.linkedin.com/in/suresh-yadav1319/" target="_blank">Suresh</a>
-</h1> 
-     
-<div id="header" align="center">  
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  width="400"/> 
+<h1 align="center">
+  Hi!!
+  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40" width="40" />
+  I'm <a href="https://www.linkedin.com/in/suresh-yadav1319/" target="_blank">Suresh</a>
+</h1>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400"/>
 </div>
 
 <div align="center">
-    
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=Welcome+to+my+GitHub+profile!;IT'27+Undergrad;Passionate+about+Coding!)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&lines=Welcome+to+my+GitHub+profile!;IT'27+Undergrad;Passionate+about+Coding!)](https://git.io/typing-svg)
 
 </div>
 
-<h2 align="center">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="35"></h2>       
+---
+
+<h2 align="center">
+  Connect with me
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60px" height="35">
+</h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/suresh-yadav1319" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suresh-yadav" height="40" width="50" /></a>
-<a href="mailto:sureshyadav6114@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_Gmail_%282015-2020%29.svg" alt="gmail" height="40" width="50" /></a>
-<a href="https://github.com/suresh1319" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="40" width="50" /></a>
-<a href="https://suresh-portfolio-3.vercel.app" target="blank"><img align="center" src="https://img.icons8.com/color/512/domain.png" alt="portfolio" height="40" width="50" /></a>
+  <a href="https://www.linkedin.com/in/suresh-yadav1319">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="50"/>
+  </a>
+  <a href="mailto:sureshyadav6114@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_Gmail_%282015-2020%29.svg" height="40" width="50"/>
+  </a>
+  <a href="https://github.com/suresh1319">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="40" width="50"/>
+  </a>
+  <a href="https://suresh-portfolio-3.vercel.app">
+    <img src="https://img.icons8.com/color/512/domain.png" height="40" width="50"/>
+  </a>
 </p>
 
-<h4 align="center"> 📩 Get in touch: <a href="mailto:sureshyadav6114@gmail.com">sureshyadav6114@gmail.com</a> </h4>
+<h4 align="center">
+📩 Get in touch: <a href="mailto:sureshyadav6114@gmail.com">sureshyadav6114@gmail.com</a>
+</h4>
 
-<!--view count-->
-<p align="center"> <img width="200px" src="https://komarev.com/ghpvc/?username=suresh1319&&style=for-the-badge" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=suresh1319&style=for-the-badge"/>
+</p>
 
-<!--line-->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-<div align="center">
-<h2 align="center"> 💻 About Me </h2>
-</div>
-
-<details>
-  <summary>🚀 Experience</summary>
-	
-  - **Frontend Developer Intern @ CodtechIT Solutions (2024)**  
-    Developed and optimized web apps using **HTML, CSS, JavaScript**  
-</details>
-
-<details>
-  <summary>🎓 Education</summary>
-	
-  - **B.Tech, Information Technology (2023–2027)** @ Malla Reddy Engineering College | GPA: 9.38/10  
-  - **Intermediate (MPC, 2021–2023)** @ Sri Chaitanya Junior College | GPA: 974/1000
-</details>
-
-<details>
-  <summary>📂 Projects</summary>
-	
-  - [AI Summarizer](https://github.com/suresh1319/ai_summarizer) — Study assistant with Gemini API  
-  - [Image Generator](https://github.com/suresh1319/IMAGE_GENERATOR) — MERN app for AI image creation  
-  - [Collab Code Editor](https://github.com/suresh1319/Collab-Code-Editor) — Real-time collaborative editor  
-</details>
-
-<details>
-  <summary>🏅 Certifications</summary>
-	
-  - Responsive Web Design — FreeCodeCamp  
-  - Java Fundamentals — Udemy  
-  - Python — Kaggle  
-</details>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
 ---
 
-<!--Languages & tools-->
-<h2 align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width = 30px height="38"> Languages, Tools and Technologies </h2>
+## 💻 About Me
+
+- 🎓 **B.Tech IT (2023–2027)** — Malla Reddy Engineering College  
+- ⭐ **GPA:** 9.38 / 10  
+- 💼 Frontend Developer Intern @ CodtechIT Solutions  
+- 💡 Passionate about Web, AI & Problem Solving  
+
+---
+
+## 🧰 Languages, Tools & Technologies
 
 <table align="center">
-	<tr>
-	<td><strong>Programming Languages</strong></td>
-	<td><img height=40 src="https://skillicons.dev/icons?i=python,java,js,sql" /></td>
-</tr>
-
 <tr>
-	<td><strong>Frontend Development</strong></td>
-	<td><img height=40 src="https://skillicons.dev/icons?i=react,tailwind,html,css" /></td>
+<td><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=python,java,js,sql" /></td>
 </tr>
-
 <tr>
-	<td><strong>Backend</strong></td>
-	<td><img height=40 src="https://skillicons.dev/icons?i=nodejs,express" /></td>
+<td><b>Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,tailwind,html,css" /></td>
 </tr>
-
 <tr>
-	<td><strong>Database</strong></td>
-	<td><img height=40 src="https://skillicons.dev/icons?i=mongodb,firebase" /></td>
+<td><b>Backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express" /></td>
 </tr>
-
 <tr>
-	<td><strong>Developer Tools</strong></td>
-	<td><img height=40 src="https://skillicons.dev/icons?i=git,github,vscode,postman" /></td>
+<td><b>Database</b></td>
+<td><img src="https://skillicons.dev/icons?i=mongodb,firebase" /></td>
 </tr>
-
+<tr>
+<td><b>Tools</b></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /></td>
+</tr>
 </table>
-<br>
 
 ---
 
-<h2 align="center"> 🐍 Contributions </h2>
+## 📊 Contributions
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Total_Contributions-2024-blue?style=for-the-badge&logo=github" alt="Total Contributions" />
-  <br><br>
-  <img src="https://raw.githubusercontent.com/suresh1319/suresh1319/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suresh1319&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suresh1319&theme=react" />
+
 </div>
 
 ---
 
-<h2 align="center"> ⚡ GitHub Stats </h2>
+## ⚡ GitHub Stats
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suresh1319&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suresh1319&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Most Used Languages" />
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=suresh1319&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" />
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=suresh1319&layout=compact&theme=react&hide_border=true&langs_count=8&cache_seconds=86400" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suresh1319&theme=react&hide_border=true" alt="GitHub Streak" />
-</div>
 
-<details>
-  <summary>
-    <h3>
-        Check Out More Stats ✨📊
-    </h3>
-  </summary>
-  <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suresh1319&theme=react" />
-    <br><br>
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suresh1319&theme=react" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suresh1319&theme=react" />
-    <br><br>
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suresh1319&theme=react" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suresh1319&theme=react" />
-  </div>
-  <br>
-  <div align="center">
-    <!-- GitHub Trophies -->
-    <img src="https://github-profile-trophy.vercel.app/?username=suresh1319&theme=algolia&column=7&margin-w=10&no-frame=true" alt="GitHub Trophies" />
-  </div>
-</details>
+<img src="https://streak-stats.demolab.com?user=suresh1319&theme=react&hide_border=true&cache_seconds=86400" />
+
+</div>
 
 ---
 
-<div align="center"> 
-    <h1> 
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=450&lines=Keep+Learning+and+Exploring!;Let's+code+together!" alt="Typing SVG"/> 
-    </h1>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=450&lines=Keep+Learning+and+Exploring!;Let's+Code+Together!)](https://git.io/typing-svg)
+
 </div>
